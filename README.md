@@ -1,7 +1,7 @@
 ## Hi there 👋
-# Programador para Entornos Virtuales
+# Programador para Entornos Virtuales y Negocios Digitales 
 
-![Foto de Perfil](url_de_tu_foto_de_perfil)
+<p aling='center'><img src= ''
 
 ## Descripción general
 Breve descripción sobre ti. Habla sobre tu perfil profesional y tus intereses en programación.

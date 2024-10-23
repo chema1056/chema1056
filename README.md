@@ -2,7 +2,7 @@
 <h1 align="center">Bienvenido, mi nombre es jorge hernandez lopez</h1>
 <h3 algn="center">posproduccion y animacion 2D y 3D</h3>
 
-
+<p align="center"><img src= ''></p>
 <p align="center"><img src= 'https://github.com/chema1056/chema1056/blob/main/Jorge%20Hern%C3%A1ndez%20L%C3%B3pez%20TIAEVND%206A.jpg'></p>
 <!--
 **chema1056/chema1056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

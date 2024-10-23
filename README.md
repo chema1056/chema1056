@@ -1,6 +1,5 @@
 ## Hi there 👋
 <h1 align="center">Bienvenido, mi nombre es jorge hernandez lopez</h1>
-<h2 align="center">mi perfil profecional</h2>
 <h3 algn="center">posproduccion y animacion 2D y 3D</h3>
 
 

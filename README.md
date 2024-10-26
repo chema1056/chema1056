@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Programador para Entornos Virtuales y Negocios Digitales 
+<p align='center'>Programador para Entornos Virtuales y Negocios Digitales</p> 
 
 <p align='center'><img src= 'https://github.com/chema1056/chema1056/blob/main/Jorge%20Hern%C3%A1ndez%20L%C3%B3pez%20TIAEVND%206A.jpg'></p>
 <p align='center'><img src= 'https://github.com/chema1056/chema1056/blob/main/portada.png'></p>

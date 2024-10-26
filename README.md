@@ -1,10 +1,9 @@
-## Hi there 👋
-<p align='center'>Programador para Entornos Virtuales y Negocios Digitales</p> 
+<H1><p align='center'>Programador para Entornos Virtuales y Negocios Digitales</p></H1>
 
 <p align='center'><img src= 'https://github.com/chema1056/chema1056/blob/main/Jorge%20Hern%C3%A1ndez%20L%C3%B3pez%20TIAEVND%206A.jpg'></p>
 <p align='center'><img src= 'https://github.com/chema1056/chema1056/blob/main/portada.png'></p>
 
-## Descripción general
+<H2><p align='center'>Descripción general</p></H2>
 Breve descripción sobre ti. Habla sobre tu perfil profesional y tus intereses en programación.
 
 ## Formación Académica

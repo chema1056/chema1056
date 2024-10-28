@@ -36,7 +36,7 @@
 <p>- Email: jorch.1056@outlook.com</p>
 
 ## Repositorio de Proyectos
-- [Proyecto 1](https://github.com/tuusuario/proyecto1)
+- [Proyecto 1]([https://github.com/tuusuario/proyecto1](https://github.com/chema1056/chema1056/blob/main/TECHNA.png))
 - [Proyecto 2](https://github.com/tuusuario/proyecto2)
 
 <!--

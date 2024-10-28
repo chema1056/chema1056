@@ -31,12 +31,11 @@
 - Inglés A2
 
 <h4>Contacto</h4>
-- [GitHub](https://github.com/tuusuario)
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- Email: tuemail@correo.com
+<p>- [GitHub]: https://github.com/chema1056/chema1056</p>
+<p>- Número: 2474718607</p>
+<p>- Email: jorch.1056@outlook.com</p>
 
 ## Repositorio de Proyectos
-Aquí puedes mostrar algunos de tus proyectos recientes con sus enlaces:
 - [Proyecto 1](https://github.com/tuusuario/proyecto1)
 - [Proyecto 2](https://github.com/tuusuario/proyecto2)
 

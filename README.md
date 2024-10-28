@@ -26,6 +26,8 @@
 <h4>Proyecto 3: Programación de videojugo para la Universidad Tecnologica de Tlaxcala </h4>
 <p>creación de videojugo de terror para la universidad Tecnologica de Tlaxcala escapando de una de una criatura que habita en la universidad, se utilizo Unity, Blender, After Effects, Photoshop, Python, Adobe Ilustrator, cumpliendo el rol de Modelador 3D y produccon de de video.</p>
 
+<h4>Proyecto 4: aplicación de realidad aumentada TECHNA </h4>
+<p>creación de proyecto para el comité de igualdad inclusión y no discriminación de la Universidad Tecnológica de Tlaxcala, utilizando blender, unity, </p>
 <h2>Idiomas</h2>
 <p>- Español Nativo</p>
 - Inglés A2
@@ -39,6 +41,7 @@
 <P>Proyecto 1: https://github.com/chema1056/chema1056/blob/main/TECHNA.png</P>
 <P>Proyecto 2: https://github.com/chema1056/chema1056/blob/main/TORO%20HUAMANTLA.png</P>
 
+<P>Proyecto 3: https://github.com/chema1056/chema1056/blob/main/TORO%20HUAMANTLA.png</P>
 <!--
 **chema1056/chema1056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -27,7 +27,7 @@
 <p>creación de videojugo de terror para la universidad Tecnologica de Tlaxcala escapando de una de una criatura que habita en la universidad, se utilizo Unity, Blender, After Effects, Photoshop, Python, Adobe Ilustrator, cumpliendo el rol de Modelador 3D y produccon de de video.</p>
 
 <h4>Proyecto 4: aplicación de realidad aumentada TECHNA </h4>
-<p>creación de proyecto para el comité de igualdad inclusión y no discriminación de la Universidad Tecnológica de Tlaxcala, utilizando blender, unity, C# Photoshop, en el rol de Modelador 3D en colaboración con @RodriMalek</p>
+<p>creación de proyecto para el comité de igualdad inclusión y no discriminación de la Universidad Tecnológica de Tlaxcala, utilizando blender, unity, C# Photoshop, en el rol de Modelador 3D en colaboración con</p> @RodriMalek
 <h2>Idiomas</h2>
 <p>- Español Nativo</p>
 - Inglés A2

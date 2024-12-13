@@ -40,6 +40,7 @@
 <H4>Repositorio de Proyectos</H4>
 <P>Proyecto 1: https://github.com/chema1056/chema1056/blob/main/TECHNA.png</P>
 <P>Proyecto 2: https://github.com/chema1056/chema1056/blob/main/TORO%20HUAMANTLA.png</P>
+<H2 align='center'>link de mi CV</H2>
 
 <!--
 **chema1056/chema1056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
